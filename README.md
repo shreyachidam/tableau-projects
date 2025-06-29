@@ -1,6 +1,7 @@
 # 📊 NexaData Project Management Dashboard
 
-![Dashboard](./fa5e1fa4-3747-4816-87d8-d5fb6548cb6d.png)
+![Dashboard](./dashboard.png)
+
 
 ---
 
