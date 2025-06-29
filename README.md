@@ -1,9 +1,8 @@
 # 📊 NexaData Project Management Dashboard
+<img width="997" alt="dashboard" src="https://github.com/user-attachments/assets/22710f3a-cc66-4d45-a1f5-124a0ea50a69" />
 
-![Dashboard](./dashboard.png)
 
 
----
 
 ### 🔍 Project Summary
 
